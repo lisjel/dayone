@@ -1,0 +1,14 @@
+
+h1{
+    font-size: 3em;
+    padding: 50px;
+    border: 10px solid transparent;
+    border-image: url(/assets/border.png) 30 round;
+}
+
+h2 {
+    font-size: 3em;
+    padding: 50px;
+    border: 120px solid transparent;
+    border-image: url(/assets/flower.jpg) 250 stretch;
+}

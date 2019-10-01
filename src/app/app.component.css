@@ -1,0 +1,13 @@
+body {
+    background: url('https://cdn.shopify.com/s/files/1/1786/8435/products/Blue_Sea_Rocks_2048x2048.jpg?v=1539243601'); background-color: skyblue;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+  }
+  
+#aquarium{
+    padding: 20px;
+}
+
+#aquarium h1{
+    
+}
